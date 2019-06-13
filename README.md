@@ -1,5 +1,6 @@
 # The Functional Style
 ## Code examples from the book
+_Java code examples require JDK 11._
 ### Chapter 2 - Recursion
  - Roman numerals (Groovy and Clojure)
 ### Chapter 3 - Functions, Types and Maps
