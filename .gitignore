@@ -1,0 +1,12 @@
+*.iws
+*.iml
+*.ipr
+out
+build
+target
+bin
+obj
+.idea
+.gradle
+.DS_Store
+.lein-repl-history
